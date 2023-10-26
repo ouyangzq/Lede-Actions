@@ -16,3 +16,10 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+
+#echo src-git helloworld https://github.com/fw876/helloworld.git >>feeds.conf.default
+#echo src-git oui https://github.com/zhaojh329/oui.git >>feeds.conf.default
+#echo src-git video https://github.com/openwrt/video.git >>feeds.conf.default
+#echo src-git targets https://github.com/openwrt/targets.git >>feeds.conf.default
+#echo src-git oldpackages http://git.openwrt.org/packages.git >>feeds.conf.default
+#echo src-link custom /usr/src/openwrt/custom-feed >>feeds.conf.default
